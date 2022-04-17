@@ -4,7 +4,7 @@ Hello! I'm Darren Ho and I am a recent graduate of Statistics from California Po
 
 Get in touch: <td><a href="https://www.linkedin.com/in/darrenho1/" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/linkedin-square-small-0077b5-FFFFFF.png" alt="LinkedIn icon" width="20" height="20" border="0" valign="bottom"/>
 
-# Data Visualization
+# Exploratory Data Analysis & Visualization
 
 <img src="https://i.dailymail.co.uk/i/pix/2012/08/10/article-0-147A73DD000005DC-656_1024x615_large.jpg" width="650" height="350">
 
