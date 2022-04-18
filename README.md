@@ -23,12 +23,14 @@ In this project, I worked with a dataset of submissions to popular technology si
  
 <img src="https://i.dailymail.co.uk/i/pix/2012/08/10/article-0-147A73DD000005DC-656_1024x615_large.jpg" width="400" height="200">
 
-### [Exploring eBay Car Sales Data](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Exploring%20eBay%20Car%20Sales%20Data/Exploring%20eBay%20Car%20Sales%20Data.ipynb)
+### [Exploring eBay Car Sales Data](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Exploring%20eBay%20Car%20Sales%20Data/Exploring%20eBay%20Car%20Sales%20Data.ipynb) - 
+In this project, I worked with a dataset of used cars from eBay Kleinanzeigen, a classified section of the German eBay website. The aim of this specific project was to clean the data and analyze the included used car listings.  
 
   
 <img src="https://static.wikia.nocookie.net/intertropolisandrouteville/images/e/ea/I-94.png/revision/latest?cb=20180924055912" width="300" height="300">
 
-### [Finding Heavy Traffic Indicators on I-94](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb)
+### [Finding Heavy Traffic Indicators on I-94](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb) -
+In this project, I analyzed a dataset about the westbound traffic on the I-94 Interstate highway. John Hogue made the dataset available, and can be downloaded from the UCI Machine Learning Repository. The goal of this analysis was to determine a few indicators of heavy traffic on the I-94. Such variables can be weather type, time of the day, time of the week, etc. Also created data visualizations to give a better idea of what the results tell us. 
   
   
 
