@@ -8,12 +8,17 @@ Find me on: <td><a href="https://www.linkedin.com/in/darrenho1/" target="_blank"
 
 <img src="https://www.netsolutions.com/insights/wp-content/uploads/2020/12/most-popular-apps.jpg" width="350" height="250">
 
-### 📱 [Profitable App Profiles for the App Store & Google Play Markets](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20%26%20Google%20Play%20Markets/Profitable%20App%20Profiles%20for%20the%20App%20Store%20%26%20Google%20Play%20Markets%20%28Guided%20Project%29.ipynb)
+### 📱 [Profitable App Profiles for the App Store & Google Play Markets](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20%26%20Google%20Play%20Markets/Profitable%20App%20Profiles%20for%20the%20App%20Store%20%26%20Google%20Play%20Markets%20%28Guided%20Project%29.ipynb) - 
+Acted as a data analyst for a company that builds Android and iOS apps. Goal of this project was to analyze data from the Google Play Store and App Store to help our developers understand what type of apps are likely to attract more users - the more users who see and engage with the ads, the better!
   
 
 <img src="https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_400x400.png" width="300" height="300">
   
-### [Exploring Hacker News Posts](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Exploring%20Hacker%20News%20Posts/Exploring%20Hacker%20News%20Posts.ipynb)
+### [Exploring Hacker News Posts](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Exploring%20Hacker%20News%20Posts/Exploring%20Hacker%20News%20Posts.ipynb) - 
+In this project, I worked with a dataset of submissions to popular technology site Hacker News. For this project, I was interested in posts with titles that began with either `Ask HN` or `Show HN`, and wanted to compare the two types of posts to determine the following: 
+  - On average, do `Ask HN` or `Show HN` posts receive more comments?
+  - On average, do posts created at a certain time receive more comments?
+
 
  
 <img src="https://i.dailymail.co.uk/i/pix/2012/08/10/article-0-147A73DD000005DC-656_1024x615_large.jpg" width="400" height="200">
@@ -26,9 +31,9 @@ Find me on: <td><a href="https://www.linkedin.com/in/darrenho1/" target="_blank"
 ### [Finding Heavy Traffic Indicators on I-94](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb)
   
   
-<img src="https://img.favpng.com/12/23/15/exchange-rate-currency-converter-foreign-exchange-market-png-favpng-ptLTudZZ1nCisi4Udez3t6nHf.jpg" width="300" height="300">
 
-### 💰 [Storytelling Data Visualization on Exchange Rates](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb)
+### 💰 [Storytelling Data Visualization on Exchange Rates](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb) -
+This project was based on Euro daily exchange rates, and the dataset covered the rates from 1999 to 2021. The data source was from the European Central Bank. This project was about applying what I learned up to this point, which includes exploring and cleaning the dataset, brainstorming an idea for storytelling data visualizations, and then coding it.  
   
  
   
