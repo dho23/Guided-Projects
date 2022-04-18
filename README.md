@@ -6,9 +6,30 @@ Find me on: <td><a href="https://www.linkedin.com/in/darrenho1/" target="_blank"
 
 # Exploratory Data Analysis & Visualization
 
-<img src="https://i.dailymail.co.uk/i/pix/2012/08/10/article-0-147A73DD000005DC-656_1024x615_large.jpg" width="650" height="350">
+<img src="https://www.netsolutions.com/insights/wp-content/uploads/2020/12/most-popular-apps.jpg" width="350" height="250">
+
+### 📱 [Profitable App Profiles for the App Store & Google Play Markets](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20%26%20Google%20Play%20Markets/Profitable%20App%20Profiles%20for%20the%20App%20Store%20%26%20Google%20Play%20Markets%20%28Guided%20Project%29.ipynb)
+  
+
+<img src="https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_400x400.png" width="300" height="300">
+  
+### [Exploring Hacker News Posts](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Exploring%20Hacker%20News%20Posts/Exploring%20Hacker%20News%20Posts.ipynb)
+
+ 
+<img src="https://i.dailymail.co.uk/i/pix/2012/08/10/article-0-147A73DD000005DC-656_1024x615_large.jpg" width="400" height="200">
 
 ### [Exploring eBay Car Sales Data](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Exploring%20eBay%20Car%20Sales%20Data/Exploring%20eBay%20Car%20Sales%20Data.ipynb)
 
+  
+<img src="https://static.wikia.nocookie.net/intertropolisandrouteville/images/e/ea/I-94.png/revision/latest?cb=20180924055912" width="300" height="300">
 
+### [Finding Heavy Traffic Indicators on I-94](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb)
+  
+  
+<img src="https://img.favpng.com/12/23/15/exchange-rate-currency-converter-foreign-exchange-market-png-favpng-ptLTudZZ1nCisi4Udez3t6nHf.jpg" width="300" height="300">
 
+### 💰 [Storytelling Data Visualization on Exchange Rates](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb)
+  
+ 
+  
+  
