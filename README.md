@@ -1,4 +1,4 @@
-# Portfolio
+# Projects
 
 Hello! I'm Darren Ho and I am a recent graduate of Statistics from California Polytechnic State University in San Luis Obispo.  The education and coursework at Cal Poly have been stimulating -- growing my passion for data and data driven decision making, and has formed an eagerness to translate my classroom learnings to real-world experience. The projects below were curated by the team at [DataQuest](https://www.dataquest.io/), and were designed to simulate working with real data in real-world scenarios while also helping me learn and apply new data science skills.   
 
