@@ -62,3 +62,9 @@ In this project, I acted as if I were working for an e-learning company that off
  ### [Mobile App for Lottery Addiction](https://nbviewer.org/github/dho23/Portfolio/blob/main/Finding%20the%20Best%20Markets%20to%20Advertise%20In/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb) - 
   
 In this project, I contributed to the development of a fake mobile app by a medican institute that aimed to prevent and treat gambling addictions. The app would help gambling addicts better estimate their chances of winning. The team needed help in creating the logical core of the app and to calculate probabilities. The main purpose of this project was to practice applying proability and combinatorics (permutations and combinations) concepts in a setting that simulates a real-world scenario.  
+
+  
+  
+ ### 📱[Building a Spam Filter with Naive Bayes](https://nbviewer.org/github/dho23/Portfolio/blob/main/Building%20a%20Spam%20Filter%20with%20Naive%20Bayes/Building%20a%20Spam%20Filter%20with%20Naive%20Bayes.ipynb) - 
+
+In this project, I studied the practical side of the multinomial Naive Bayes algorithm by building a spam filter for SMS messages/texts. To classify messages as spam or non-spam, I needed the computer to learn how humans classify messages, use human knowledge to estimate probabilities for a new message, and to classify a new message based on the probability values. The goal was to create a spam filter that classifies new messages with high accuracy. 
