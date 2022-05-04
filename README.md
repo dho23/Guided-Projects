@@ -50,8 +50,15 @@ In this project, I worked with exit surveys from employees of the Department of 
 ### [Star Wars Survey](https://nbviewer.org/github/dho23/Portfolio/blob/main/Star%20Wars%20Survey/Star%20Wars%20Survey.ipynb) - 
 In this project, I worked with data from [FiveThirtyEight](https://fivethirtyeight.com/) in order to answer some questions about Star wars (data was collected prior to the 7th installment in the Star Wars Universe). In particular, I wondered: does the rest of America realize that "The Empire Strikes Back" is clearly the best film of the Star Wars franchise? The project included data cleaning, exploratory analysis and some data visualizations to go along with. 
   
-  
+# Probability & Statistics  
   
 ### 💻[Finding the Best Markets to Advertise In](https://nbviewer.org/github/dho23/Portfolio/blob/main/Finding%20the%20Best%20Markets%20to%20Advertise%20In/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb) - 
 
 In this project, I acted as if I were working for an e-learning company that offers courses on programming. Most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and we'd like to invest some money in advertisement. Our goal in this project is to find out the two best markets to advertise our product in. 
+
+  
+<img src="https://media.istockphoto.com/vectors/person-holding-a-winning-lottery-ticket-vector-id1291862179?k=20&m=1291862179&s=612x612&w=0&h=uUBGRfzjh1YcD_htmpgrftCA6RQ8o4sX9odW7KX0J3k=" width="200" height="200">
+  
+ ### [Mobile App for Lottery Addiction](https://nbviewer.org/github/dho23/Portfolio/blob/main/Finding%20the%20Best%20Markets%20to%20Advertise%20In/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb) - 
+  
+In this project, I contributed to the development of a fake mobile app by a medican institute that aimed to prevent and treat gambling addictions. The app would help gambling addicts better estimate their chances of winning. The team needed help in creating the logical core of the app and to calculate probabilities. The main purpose of this project was to practice applying proability and combinatorics (permutations and combinations) concepts in a setting that simulates a real-world scenario.  
