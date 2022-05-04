@@ -68,3 +68,12 @@ In this project, I contributed to the development of a fake mobile app by a medi
  ### 📱[Building a Spam Filter with Naive Bayes](https://nbviewer.org/github/dho23/Portfolio/blob/main/Building%20a%20Spam%20Filter%20with%20Naive%20Bayes/Building%20a%20Spam%20Filter%20with%20Naive%20Bayes.ipynb) - 
 
 In this project, I studied the practical side of the multinomial Naive Bayes algorithm by building a spam filter for SMS messages/texts. To classify messages as spam or non-spam, I needed the computer to learn how humans classify messages, use human knowledge to estimate probabilities for a new message, and to classify a new message based on the probability values. The goal was to create a spam filter that classifies new messages with high accuracy. 
+  
+  
+  <img src="https://www.liveabout.com/thmb/-1IkuMGHyqL3eNeZ04ep70HVCPo=/1920x1080/filters:fill(auto,1)/jeop_logo_large-58bacf375f9b58af5cb69e2f.jpg" width="250" height="200">
+  
+ ### [Winning Jeopardy](https://nbviewer.org/github/dho23/Portfolio/blob/main/Finding%20the%20Best%20Markets%20to%20Advertise%20In/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb) - 
+  
+Jeopardy is a popular TV show in the US where participants answer questions to win money. It's been running for many years, and is a major force in pop culture. Imagine that we want to compete on Jeopardy, and we're looking for any way to win. In this project, I worked with a dataset of Jeopardy questions to figure out some patterns in the questions that could help us win. This project incorporated hypothesis testing through significance testing and chi-squared tests. 
+  
+ 
