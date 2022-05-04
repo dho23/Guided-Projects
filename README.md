@@ -43,3 +43,9 @@ This project was based on Euro daily exchange rates, and the dataset covered the
 ### [Employee Exit Surveys](https://nbviewer.org/github/dho23/Portfolio/blob/main/Clean%20%26%20Analyze%20Employee%20Exit%20Surveys/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb) -
  
 In this project, I worked with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia. I played the role of a data analyst to help answer the questions our "stakeholders" wanted to know. I experienced that in order to extract any meaningful insights from our data, I had to perform many data cleaning tasks. 
+
+  
+  <img src="https://static.wikia.nocookie.net/starwars/images/c/cc/Star-wars-logo-new-tall.jpg/revision/latest?cb=20190313021755" width="300" height="200">
+  
+### [Star Wars Survey](https://nbviewer.org/github/dho23/Portfolio/blob/main/Star%20Wars%20Survey/Star%20Wars%20Survey.ipynb) - 
+In this project, I worked with data from [FiveThirtyEight](https://fivethirtyeight.com/) in order to answer some questions about Star wars (data was collected prior to the 7th installment in the Star Wars Universe). In particular, I wondered: does the rest of America realize that "The Empire Strikes Back" is clearly the best of the Star Wars franchise? The project included data cleaning, exploratory analysis and some data visualizations to go along with. 
