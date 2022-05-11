@@ -8,7 +8,7 @@ Find me on: <td><a href="https://www.linkedin.com/in/darrenho1/" target="_blank"
 
 <img src="https://www.netsolutions.com/insights/wp-content/uploads/2020/12/most-popular-apps.jpg" width="250" height="175">
 
-### 📱 [Profitable App Profiles for the App Store & Google Play Markets](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20%26%20Google%20Play%20Markets/Profitable%20App%20Profiles%20for%20the%20App%20Store%20%26%20Google%20Play%20Markets%20%28Guided%20Project%29.ipynb) - 
+### 📱 [Profitable App Profiles for the App Store & Google Play Markets](https://nbviewer.org/github/dho23/Portfolio/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20%26%20Google%20Play%20Markets/Profitable%20App%20Profiles%20for%20the%20App%20Store%20%26%20Google%20Play%20Markets.ipynb) - 
 Acted as a data analyst for a company that builds Android and iOS apps. Goal of this project was to analyze data from the Google Play Store and App Store to help our developers understand what type of apps are likely to attract more users - the more users who see and engage with the ads, the better!
   
 
