@@ -51,6 +51,11 @@ In this project, I worked with exit surveys from employees of the Department of 
 In this project, I worked with data from [FiveThirtyEight](https://fivethirtyeight.com/) in order to answer some questions about Star wars (data was collected prior to the 7th installment in the Star Wars Universe). In particular, I wondered: does the rest of America realize that "The Empire Strikes Back" is clearly the best film of the Star Wars franchise? The project included data cleaning, exploratory analysis and some data visualizations to go along with. 
   
 # Probability & Statistics  
+
+  
+ ### 🎥[Investigating Fandango Movie Ratings](https://nbviewer.org/github/dho23/Portfolio/blob/main/Investigating%20Fandango%20Movie%20Ratings/Investigating%20Fandango%20Movie%20Ratings.ipynb) -   
+  
+In this project, I looked into findings from a data journalist named Walt Hickey, who analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest. Fandango displays a 5-star rating system on their website, where the minimum rating is 0 stars and the maximum is 5 stars. Hickey found that there's a significant discrepancy between the number of stars displayed to users and the actual rating. I wanted to further analyze recent movie ratings data to determine whether there had been any changes in Fandango's rating system after Hickey's analysis.    
   
 ### 💻[Finding the Best Markets to Advertise In](https://nbviewer.org/github/dho23/Portfolio/blob/main/Finding%20the%20Best%20Markets%20to%20Advertise%20In/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb) - 
 
