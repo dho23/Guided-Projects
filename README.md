@@ -83,3 +83,35 @@ Jeopardy is a popular TV show in the US where participants answer questions to w
   
  
 # Machine Learning
+
+  
+### 🚗 [Predicting Car Prices](https://nbviewer.org/github/dho23/Portfolio/blob/main/Predicting%20Car%20Prices/Predicting%20Car%20Prices.ipynb) - 
+  
+I explored the fundamentals of machine learning using the k-nearest neighbors algorithm. So in this project, I practiced the machine learning workflow I had learned so far to predict a car's market price using its attributes. The dataset I worked with contained info on various cars. For each car, I had info about the technical aspects of the vehicle such as the motor's displacement, the weight of the car, the miles per gallon, how fast the car accelerates, and more.
+  
+
+### 🏘️ [Predicting House Sale Prices](https://nbviewer.org/github/dho23/Portfolio/blob/main/Predicting%20House%20Sale%20Prices/Predicting%20House%20Sale%20Prices.ipynb) - 
+  
+In this project, I practiced what I had learned by exploring ways to improve the models I built through feature engineering, feature selection, and training & testing. I worked with housing data for the city of Ames, Iowa from 2006 to 2010. I was able to build a pipeline of functions that allowed for quick iterations on different models. 
+  
+  
+### 🚲 [Predicting Bike Rentals](https://nbviewer.org/github/dho23/Portfolio/blob/main/Predicting%20Bike%20Rentals/Predicting%20Bike%20Rentals.ipynb) -
+  
+In this project, I tried to predict the total number of bikes people rented in a given hour. To accomplish this, I created a few different machine learning models and evaluated their performances. I calculated features, split the data into train and test sets, and then applied linear regression, decision trees and random forests algorithms to the data. 
+
+  
+<img src="https://miro.medium.com/max/1400/1*FL6DWzN-awxCaG8bS1ZD_Q.png" width="250" height="200">
+  
+### [Building A Handwritten Digits Classifier](https://nbviewer.org/github/dho23/Portfolio/blob/main/Building%20A%20Handwritten%20Digits%20Classifier/Building%20A%20Handwritten%20Digits%20Classifier.ipynb) -  
+  
+In a previous lession, I had learned how adding hidden layers of neurons to a neural network can improve its ability to capture nonlinearity in the data. So in this project, I explored why image classification is a hard task, observe the limitations of traditional machine learning models for image classification, train,test, and improved a few different deep neural networks for image classification. Wanted to explore the effectiveness of deep, feedforward neural networks at classifying images. 
+  
+
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" width="250" height="200">
+
+### [Creating a Kaggle Workflow](https://nbviewer.org/github/dho23/Portfolio/blob/main/Creating%20a%20Kaggle%20Workflow/Creating%20a%20Kaggle%20Workflow.ipynb) - 
+  
+In this project, I put together all that I had learned and created a data science workflow. By defining a workflow, I was able to give myself a framework with which to make iterating on ideas quicker and easier, allowing for myself to work more efficiently. I explored a workflow to make competing in the Kaggle Titanic competeition easier, using a pipeline of function to reduce the number of dimensions needing focus on.    
+  
+  
+  
