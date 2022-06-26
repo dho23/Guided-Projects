@@ -12,7 +12,6 @@ Find me on: <td><a href="https://www.linkedin.com/in/darrenho1/" target="_blank"
 Acted as a data analyst for a company that builds Android and iOS apps. Goal of this project was to analyze data from the Google Play Store and App Store to help our developers understand what type of apps are likely to attract more users - the more users who see and engage with the ads, the better!
   
 
-<img src="https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_400x400.png" width="200" height="200">
   
 ### [Exploring Hacker News Posts](https://nbviewer.org/github/dho23/Guided-Projects/blob/main/Exploring%20Hacker%20News%20Posts/Exploring%20Hacker%20News%20Posts.ipynb) - 
 In this project, I worked with a dataset of submissions to popular technology site Hacker News. For this project, I was interested in posts with titles that began with either `Ask HN` or `Show HN`, and wanted to compare the two types of posts to determine the following: 
